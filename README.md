@@ -24,5 +24,4 @@
 
 ## 🌎 Contato
 
-- Email: seuemail@gmail.com
-- LinkedIn: Seu LinkedIn
+- Email: buenotobias52@gmail.com
